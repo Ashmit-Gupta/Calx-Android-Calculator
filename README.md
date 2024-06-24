@@ -18,12 +18,9 @@ Calx is a straightforward Android calculator application created with Java in An
 
 
 ## Screenshots
-<link rel="stylesheet" type="text/css" href="style.css">
-
-
-## Demo
-
-Insert gif or link to demo
+![Calx ss1](https://github.com/Ashmit-Gupta/Calx-Android-Calculator/assets/124504648/e89b86cb-1ad5-4a98-bb9e-2cb83a90bc43)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Calx ss2](https://github.com/Ashmit-Gupta/Calx-Android-Calculator/assets/124504648/b4e57344-cc20-4981-a1b3-bd6032a02d50)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Calx ss3](https://github.com/Ashmit-Gupta/Calx-Android-Calculator/assets/124504648/ad1ef73f-1c8e-43ab-aa1a-de7de2ad0d87)
 
 ## Lessons Learned:
 
