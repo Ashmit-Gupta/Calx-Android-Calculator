@@ -19,13 +19,12 @@ Calx is a straightforward Android calculator application created with Java in An
 
 ## Screenshots
 ![Calx ss1](https://github.com/Ashmit-Gupta/Calx-Android-Calculator/assets/124504648/e89b86cb-1ad5-4a98-bb9e-2cb83a90bc43)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Calx ss2](https://github.com/Ashmit-Gupta/Calx-Android-Calculator/assets/124504648/b4e57344-cc20-4981-a1b3-bd6032a02d50)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Calx ss3](https://github.com/Ashmit-Gupta/Calx-Android-Calculator/assets/124504648/ad1ef73f-1c8e-43ab-aa1a-de7de2ad0d87)
 
 ## Lessons Learned:
 
 
-* **Making Apps User-Friendly:** I learned the importance of creating apps that are simple and intuitive for users to navigate.
+* **Making Apps User-Friendly:** I learned the importance of creating simple and intuitive apps for users to navigate.
 * **Debugging and Error Handling:** I gained experience in identifying and fixing bugs in my code, improving the reliability and stability of Calx.
 * **Learning Android Studio:** I deepened my understanding of Android Studio, enabling more efficient development of Calx.
 * **Continuous Learning:** I embraced the importance of continuous learning and personal growth as a developer, staying updated with the latest technologies and best practices to enhance my skills and improve Calx.
